@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/simple_project/__init__.py
+src/simple_project.egg-info/PKG-INFO
+src/simple_project.egg-info/SOURCES.txt
+src/simple_project.egg-info/dependency_links.txt
+src/simple_project.egg-info/top_level.txt
+src/simple_project/components/__init__.py
+src/simple_project/config/__init__.py
+src/simple_project/config/configuration.py
+src/simple_project/constants/__init__.py
+src/simple_project/entity/__init__.py
+src/simple_project/pipeline/__init__.py
+src/simple_project/utils/__init__.py
+src/simple_project/utils/common.py
